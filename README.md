@@ -6,4 +6,4 @@ The file domains.txt contains a list of domain names, one per line, which contai
 
 One domain, per line, with a company that has opted me in without my consent.
 
-###### latest update: 17.02.2023
+###### Latest update: 17.02.2023
