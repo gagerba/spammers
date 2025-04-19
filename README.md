@@ -1,9 +1,22 @@
-# Spammers
+# Blocklist: Unsolicited Outreach Domains
 
-The file domains.txt contains a list of domain names, one per line, which contains companies that have acquired my contact details through Lusha, Zoominfo, Cognism, Seamless, Apollo, LeadIQ, Slintel, etc. They are an absolute annoyance, so I suggest you block does domain name at SMTP time on your email gateways.
+The `domains.txt` file contains a list of domain names — one per line — associated with companies that have acquired my contact information through third-party data brokers such as:
 
-## domains.txt
+- Lusha  
+- ZoomInfo  
+- Cognism  
+- Seamless  
+- Apollo  
+- LeadIQ  
+- Slintel  
+- ...and others
 
-One domain, per line, with a company that has opted me in without my consent.
+These domains are a persistent source of unsolicited outreach and nuisance communication.
 
-###### Latest update: 17.02.2023
+## Recommendation
+
+It is strongly recommended to block these domains **at the SMTP level** on your email gateways. Doing so can help reduce spam and protect users from unwanted marketing attempts.
+
+---
+
+> 📁 See [`domains.txt`](./domains.txt) for the full list.
