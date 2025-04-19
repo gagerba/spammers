@@ -19,4 +19,4 @@ I block these domains **at the SMTP level** on my email gateways. Doing so help 
 
 ---
 
-> 📁 See [`domains.txt`](./domains.txt) for the full list.
+📁 See [`domains.txt`](./domains.txt) for the full list.
