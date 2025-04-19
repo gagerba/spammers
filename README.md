@@ -15,7 +15,7 @@ These domains are a persistent source of unsolicited outreach and nuisance commu
 
 ## Recommendation
 
-It is strongly recommended to block these domains **at the SMTP level** on your email gateways. Doing so can help reduce spam and protect users from unwanted marketing attempts.
+I block these domains **at the SMTP level** on my email gateways. Doing so help reduce spam and protect from unwanted marketing attempts.
 
 ---
 
